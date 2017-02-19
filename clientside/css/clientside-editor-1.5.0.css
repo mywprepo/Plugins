@@ -1,0 +1,82 @@
+/*!
+ * This file is part of: Clientside
+ * Author: Berend de Jong
+ * Author URI: http://frique.me/
+ * Version: 1.5.0 (2016-10-23 01:39)
+ */
+
+body {
+  max-width: none !important;
+  font-size: 16px !important;
+  line-height: 1.4 !important;
+  font-family: "Lato", "Segoe UI", "Helvetica Neue", "Roboto", "Open Sans", sans-serif !important;
+  margin: 18px !important;
+}
+
+body {
+  color: #333 !important;
+}
+
+body.wp-autoresize {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+b, strong {
+  font-weight: 600 !important;
+}
+
+a,
+a:hover,
+a:active,
+a:focus {
+  border: 0 !important;
+  text-decoration: underline !important;
+}
+
+a,
+a:hover,
+a:active,
+a:focus {
+  color: #42abdf !important;
+}
+
+p,
+ul,
+ol {
+  margin-top: 0;
+  margin-bottom: 22.4px !important;
+}
+
+ul,
+ol {
+  list-style-position: inside !important;
+}
+
+blockquote {
+  border-left: 0 !important;
+  margin-left: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.rtl blockquote {
+  border-right: 0 !important;
+  margin-right: 0 !important;
+}
+
+blockquote, blockquote p {
+  font-family: serif;
+  font-style: normal !important;
+}
+
+blockquote, blockquote p {
+  color: #333 !important;
+}
+
+table th,
+table td,
+.mce-item-table th,
+.mce-item-table td,
+table caption {
+  font-family: "Lato", "Segoe UI", "Helvetica Neue", "Roboto", "Open Sans", sans-serif !important;
+}
